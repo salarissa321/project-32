@@ -215,3 +215,74 @@ margin-left: 20px;
 }
   
 
+.myicon1{
+    border: none;
+    line-height: 0;
+    color: #58468c;
+    margin-left: 120px;
+}
+
+.mysubtitel{
+    
+    margin: 0;
+    line-height: 1.2em;
+    font-weight: 500;
+    color: #58468c;
+    font-family: Poppins,sans-serif;
+    font-size: 22px;
+}
+
+.mypara{
+    font-family: Nunito,sans-serif;
+    font-size: 16px;
+   
+    font-weight: 300;
+    color: #716c80;
+    
+}
+
+.myheader{
+    display: block;
+    margin: 0;
+    color: #58468c;
+    font-family: Poppins,sans-serif;
+    font-weight: 400;
+    font-size: 45px;
+line-height: 1.22em;
+}
+
+.myparagraf{
+    font-size: 20px;
+    line-height: 33px;
+    margin-top: 25px;
+    display: block;
+margin: 14px 0 0;
+color: #716c80;
+font-weight: 300;
+}
+
+.mybutton{
+    line-height: 2em;
+    letter-spacing: .125em;
+    border-radius: 3em;
+    font-weight: 500;
+    text-transform: uppercase;
+    outline: 0;
+color: #fff;
+padding: 12px 37px;
+font-size: 12px;
+background-color: #ff8a73;
+border: 1px solid transparent;
+position: relative;
+display: inline-block;
+vertical-align: middle;
+width: auto;
+margin: 0;
+font-family: Poppins,sans-serif;
+text-decoration: none;
+}
+
+.mybild{
+    margin-left: 40px;
+}
+
